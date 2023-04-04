@@ -41,3 +41,6 @@ C:\Users\rosi_\OneDrive\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windo
 C:\Users\rosi_\OneDrive\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
 C:\Users\rosi_\OneDrive\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
 C:\Users\rosi_\OneDrive\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\rosi_\OneDrive\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ReOrderView.resources
+C:\Users\rosi_\OneDrive\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ReorderConfirmView.resources
+C:\Users\rosi_\OneDrive\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ProductPerformanceReport.resources

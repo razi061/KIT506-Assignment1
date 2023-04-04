@@ -10,10 +10,19 @@
     <Compile Update="LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="ProductPerformanceReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="ProductSearchView.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="PruchaseView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReorderConfirmView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReOrderView.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

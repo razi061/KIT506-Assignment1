@@ -22,5 +22,17 @@ namespace WinFormsApp1
             var productSearch = new ProductSearchView();
             productSearch.Show();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            var reorderView = new ReOrderView();
+            reorderView.Show();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            var view = new ProductPerformanceReport();
+            view.Show();
+        }
     }
 }
